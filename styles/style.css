@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Cascadia+Code:ital,wght@0,200..700;1,200..700&display=swap');
 
 :root {
-    --main-color: #6E859F;
-    --secondary-color: #284260;
-    --contrast-color: #C928FC;
+    --main-color: #7c91a8;
+    --secondary-color: #86befd;
+    --contrast-color: #dd8ff5;
 }
 
 body {
